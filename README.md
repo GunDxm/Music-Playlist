@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-Let me explain how to use the project
+How to use the application
 1.Download the project from its GitHub repository.
 2.Extract the zip file or clone the repository to your machine.
 3.Install the Flutter SDK by downloading it from https://flutter.dev/docs/get-started/install and follow the installation steps.
