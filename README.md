@@ -6,11 +6,12 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Let me explain how to use the project
+1.Download the project from its GitHub repository.
+2.Extract the zip file or clone the repository to your machine.
+3.Install the Flutter SDK by downloading it from https://flutter.dev/docs/get-started/install and follow the installation steps.
+4.Install an IDE of your choice such as Android Studio, VS Code, or IntelliJ IDEA.
+5.Create a new project in your IDE.
+6.Open a Terminal and navigate to the project directory.
+7.Run the command flutter pub get to install dependencies used in the project.
+8.Connect a device to test the app or use an Android emulator by running the program in debug mode with the command flutter run.
